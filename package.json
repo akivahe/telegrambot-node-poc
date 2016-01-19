@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/akivahe/telegrambot-node-poc/issues"
   },
-  "homepage": "https://github.com/akivahe/telegrambot-node-poc#readme"
+  "homepage": "https://github.com/akivahe/telegrambot-node-poc#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
